@@ -14,7 +14,7 @@ Once we’ve chosen a city we’re again presented with a list of available site
 
 ![Select Equinix LA1](/img/EquinixLA1Selected.jpg)
 
-We again see the green checkmark, confirming that this selection has successfully completed. Notice that as we advance through each step in the process, we get continuous and cumulative feedback on our selections. We can at any time revise any of these selections by clicking CHANGE SOURCE LOCATION, CHANGE SOURCE DETAILS, CHANGE DESTINATION LOCATION. Once we've settled on our destination details, we'll be able to modify it as well. 
+We again see the green checkmark, confirming that this selection has successfully completed. Notice that as we advance through each step in the process, we get continuous and cumulative feedback on our selections. We can at any time revise any of these selections by clicking CHANGE SOURCE LOCATION, CHANGE SOURCE DETAILS, CHANGE DESTINATION LOCATION. Once we've settled on our destination details, we'll be able to modify them as well. 
 
 ![Confirm Destination and show change options](/img/ConfirmDestinationLocation.jpg)
 
