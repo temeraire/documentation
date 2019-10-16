@@ -4,15 +4,16 @@ date: 2019-10-15T23:00:56-04:00
 draft: false
 weight: 20
 ---
+<script src="/js/wz_tooltip.js"></script>
 
-Once our PacketDirect service is finished provisioning, we generate the Letters of Authorization (LOAs). We do that by clicking on the three dots on the far right-hand side and choosing ‘generate LOA:’
+Once our PacketDirect service is finished provisioning, we generate the <a href="javascript:;" onmouseover="Tip('An LOA (also known as a letter of authorization) is a document that is usually physically signed by someone of authority. It grants permission for changes to be made and can authorize access to the physical sites.', WIDTH, 250, ABOVE, true)" onmouseout="UnTip()">Letters of Authorization (LOAs)</a>. We do that by clicking on the three dots on the far right-hand side and choosing ‘generate LOA:’
 
 ![Generate LOA](/img/GenerateLOA.jpg)
 
 We’ll now choose to:
 
 *   Generate the LOA for both sides at the same time, without selecting the option to email as an attachment 
-*   Change who the LOA is made out to. (If, for instance if we’re known as a different name at a facility we can go ahead and put that name in, as we’ve done below -- “Brand X".) 
+*   Change who the LOA is made out to. (If, for instance if we’re known as a different name at a <a href="javascript:;" onmouseover="Tip('In this context, a facility is a  colocation center (also known as a carrier hotel) where multiple providers all come together. Some providers may have a different legal entity name at once facility versus another, but still have common ownership. This is usually due to past mergers or acquisitions.', WIDTH, 250, ABOVE, true)" onmouseout="UnTip()">facility</a> we can go ahead and put that name in, as we’ve done below -- “Brand X".) 
 
 ![LOA Options](/img/LOAoptions.jpg)
 

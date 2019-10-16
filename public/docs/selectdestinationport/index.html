@@ -3,7 +3,7 @@
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>3. Select Destination Port Market - PacketFabric</title>
+<title>3. Select Destination Port Market - PacketFabric Documentation</title>
 <meta name="generator" content="Hugo 0.58.3" />
 <link href="/index.xml" rel="alternate" type="application/rss+xml">
 <link rel="canonical" href="/docs/selectdestinationport/">
@@ -14,12 +14,14 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js"></script>
 <script src="/js/bundle.js"></script></head>
 <body><div class="container"><header>
-<h1>PacketFabric</h1>
+<h1>PacketFabric Documentation</h1>
 
 </header>
 
 <div class="content-container">
-<main><h1>3. Select Destination Port Market</h1><p>Next: ‘Select Destination Port Market.’ We’ll choose our destination port; let&rsquo;s select Los Angeles:</p>
+<main><h1>3. Select Destination Port Market</h1><script src="/js/wz_tooltip.js"></script>
+
+<p>We’ll now choose our destination port; let&rsquo;s select Los Angeles:</p>
 
 <p><img src="/img/SelectDestinationPortMarket.jpg" alt="Select Destination Port Market" /></p>
 
@@ -27,27 +29,27 @@
 
 <p><img src="/img/EquinixLA1Selected.jpg" alt="Select Equinix LA1" /></p>
 
-<p>Once we do that, we again see the green checkmark. Notice that as we advance through each step in the process, we get continuous and cumulative feedback on our selections. We can at any time revise any of these selections by clicking, thus far, CHANGE SOURCE LOCATION, CHANGE SOURCE DETAILS, CHANGE DESTINATION LOCATION. After, in the next step, settling on our destination details, we will be able to modify it as well.</p>
+<p>We again see the green checkmark, confirming that this selection has successfully completed. Notice that as we advance through each step in the process, we get continuous and cumulative feedback on our selections. We can at any time revise any of these selections by clicking CHANGE SOURCE LOCATION, CHANGE SOURCE DETAILS, CHANGE DESTINATION LOCATION. Once we&rsquo;ve settled on our destination details, we&rsquo;ll be able to modify it as well.</p>
 
 <p><img src="/img/ConfirmDestinationLocation.jpg" alt="Confirm Destination and show change options" /></p>
 
-<p>Note that the only option available (above) for Speed is ten gigabits per second, because the port speed must match between source and destination. This is a requirement of the PacketDirect point-to-point services. Our component ports, however, offer building virtual circuits of varying sizes between ports of different speeds.</p>
+<p>Note that the only option available (above) for Speed is ten gigabits per second, because the port speed must match between source and destination. This is a requirement of the PacketDirect point-to-point services. Our component ports, however, offer virtual circuits of varying sizes between ports of different speeds.</p>
 
-<p>Once we select that, we come to the Package Confirmation Screen.</p>
+<p>We now are presented with the Package Confirmation Screen.</p>
 
 <p><img src="/img/PackageConfirmation.jpg" alt="Package Confirmation" /></p>
 
-<p>The Circuit Description can contain any identifying information we like, or we can choose to leave it with its default name,  as we’ve done above. We also choose the billing account to which we’ll assign charges, and select the term for the service (terms are available anywhere from one to month up to 36 months).</p>
+<p>The Circuit Description can contain any identifying information we like, or we can choose to leave it with its default name, as we’ve done above. We also choose the billing account to which we’ll assign charges, and select the term for the service (terms are available anywhere from one to month up to 36 months).</p>
 
 <p><img src="/img/36MonthCost.jpg" alt="Package Confirmation" /></p>
 
-<p>Discounts on both NRC and MRC charges are offered based on term lengths selected. After changing the term length from 12 to 36 months, note that the NRC and MRC charges are both automatically reduced.</p>
+<p>Discounts on both <a href="javascript:;" onmouseover="Tip('NRC means Non-Recurring Charge, and is the money you pay initially for installation and initialization services. MRC stands for Monthly Recurring Charge, and typically refers to the monthly payments you make for your services.', WIDTH, 250, ABOVE, true)" onmouseout="UnTip()">NRC and MRC charges</a> are offered based on term lengths selected. After changing the term length from 12 to 36 months, note that the NRC and MRC charges are both automatically reduced.</p>
 
 <p>We’ll choose 24 months, however, and then  hit the CREATE button:</p>
 
 <p><img src="/img/FinalCreatePackage.jpg" alt="Create Package" /></p>
 
-<p>The PacketDirect process takes about two to three minutes to fully deploy!</p>
+<p><strong><em>The PacketDirect process takes about two to three minutes to fully deploy!</em></strong></p>
 
 <p><img src="/img/PackageCreated1.jpg" alt="Package Created" /></p>
 <div class="edit-meta">
@@ -65,7 +67,7 @@ Published on 15 Oct 2019
 <ul>
 <li class=""><a href="/">Home</a></li>
 
-<li class="parent"><a href="/docs/">PacketDirect</a>
+<li class="parent"><a href="/docs/">PacketDirect In 4 Simple Steps</a>
 <ul class="sub-menu">
 <li class=""><a href="/docs/create-package/">1. Select the Package</a></li>
 <li class=""><a href="/docs/selectsourceport/">2. Select Source Port Market</a></li>
