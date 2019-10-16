@@ -1,5 +1,5 @@
 ---
-title: 'PacketDirect In 4 Simple Steps'
+title: 'PacketDirect Setup In 4 Simple Steps'
 date: 2019-10-15T15:14:39+10:00
 weight: 1
 ---
