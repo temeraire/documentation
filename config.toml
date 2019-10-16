@@ -1,0 +1,5 @@
+baseURL = "/"
+themesDir = "themes"
+title = "PacketFabric"
+theme = "hugo-theme-techdoc"
+draft = "true"
