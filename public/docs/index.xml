@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PacketFabric</title>
-    <link>/</link>
-    <description>Recent content on PacketFabric</description>
+    <title>PacketDirect on PacketFabric</title>
+    <link>/docs/</link>
+    <description>Recent content in PacketDirect on PacketFabric</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
