@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content in PacketFabric on PacketFabric Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 15:14:39 +1000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -29,7 +29,7 @@ Clicking the SELECT button takes us to the Select Source Port Market screen, des
       <pubDate>Tue, 15 Oct 2019 16:32:43 -0400</pubDate>
       
       <guid>/docs/selectsourceport/</guid>
-      <description>Start by choosing a source port from any of our locations. Here, we’ll choose Chicago. There are multiple Chicago options; we’ll choose Coresite CH1 in Chicago:
+      <description>Start by choosing a source port from any of our locations. Here, we’ll choose Chicago. There are multiple Chicago options; we’ll select Coresite CH1 in Chicago:
 Once we select Chicago and Coresite CH1, we see the below screen. The green checkmark overlay indicates that we have successfully chosen our Source Port Market and Site.
 We can now select available source port details. We’ll choose the 10Gbps/LR radio button:</description>
     </item>
@@ -53,7 +53,7 @@ We again see the green checkmark, confirming that this selection has successfull
       <guid>/docs/activatetheservice/</guid>
       <description>Once our PacketDirect service is finished provisioning, we generate the Letters of Authorization (LOAs). We do that by clicking on the three dots on the far right-hand side and choosing ‘generate LOA:’
 We’ll now choose to:
- Generate the LOA for both sides at the same time, without selecting the option to email as an attachment Change who the LOA is made out to. (If, for instance if we’re known as a different name at a facility we can go ahead and put that name in, as we’ve done below &amp;ndash; “Brand X&amp;rdquo;.</description>
+ Generate the LOA for both sides at the same time, without selecting the option to email as an attachment Change who the LOA is made out to. (If, for instance we’re known as a different name at a facility we can go ahead and enter that name, as we’ve done below &amp;ndash; “Brand X.</description>
     </item>
     
   </channel>
